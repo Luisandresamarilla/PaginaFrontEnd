@@ -1,0 +1,26 @@
+*{background-color:#D8D8D8}
+section img {border-radius: 20%}
+aside img {border-radius: 20%}
+
+header {
+  float: inline-start;
+  margin-left: 40%;
+}
+
+
+
+section{
+  float: left;
+  margin: 1%;
+  width: 48%;
+}
+
+aside {
+  float: left;
+margin:1%;
+width: 47%;
+}
+
+footer {
+  position: static;
+}
